@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1505681308 source:c:\users\portela\desktop\projetos\raizes\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
